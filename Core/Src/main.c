@@ -19,7 +19,7 @@
   * uart 2 disable interupt and dma for display
   * GPIO PC8 for logger relay
   * timer 11 activated
-  *
+  *테스트테스으 고승현 
   *
   ******************************************************************************
   */
